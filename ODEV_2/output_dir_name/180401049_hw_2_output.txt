@@ -1,0 +1,2 @@
+aritmetik ort.=44
+medyan=45
