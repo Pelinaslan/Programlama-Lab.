@@ -4,6 +4,9 @@ from sympy import pprint
 import matplotlib.pyplot as plt
 from sympy import factorial
 
+#Binomial Distribution func.
+#binom dagilimi n sayida iki kategori (yani basari/basarisizlik, evet/hayir, 1/0 vb) sonucu veren denemelere uygulanir. 
+
 #degiskenleri sembole donusturduk
 n=Symbol('n') #deneme sayisi
 x=Symbol('x') #istenilen basari sayisi
