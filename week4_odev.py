@@ -1,6 +1,3 @@
-#Pelin ASLAN 180401049
-
-
 
 #i parametresinin sagi ve solunu kontrol edip koşul saglanmadigi durumda yer degistirir
 #recursive olarak devam eder
